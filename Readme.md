@@ -6,7 +6,7 @@ This project efficiently and accurately solves the problem of UAV base station p
 
 ### Step 1: Generate UAV Base Station Candidate Set
 Run the `1_ABSCandidateSet.py` file:
-- **Input**: `ABS_selection.3idx` index file (refer to the Q-view algorithm for generation code).
+- **Input**: `ABS_selection.3idx` index file (refer to the Q-view algorithm for index, or you can download the preprocessed data from this link:https://pan.baidu.com/s/1jm8V6GVaoDZZUKsiDlvhoA, Extraction code：2025).
 - **Output**: Candidate information for 3498 UAV base stations (including base station ID, XYZ coordinates, LOS radius, and NLOS radius), stored in `/data/coverage_results.csv`.
 
 ### Step 2: Build Realistic Coverage Model
