@@ -1,0 +1,119 @@
+===== Greedy Algorithm Summary ===== N=3
+Number of Selected Stations: 3
+Total Coverage: 168806 pixels
+Overlap Rate: 0.1693
+Selected IDs: [1525, 656, 2063]
+Algorithm Run Time: 1.620120 s
+Total Time (Load + Run): 2.431047 s
+
+===== Greedy Algorithm Summary ===== N=5
+Number of Selected Stations: 5
+Total Coverage: 241097 pixels
+Overlap Rate: 0.2414
+Selected IDs: [1525, 656, 2063, 618, 875]
+Algorithm Run Time: 2.689279 s
+Total Time (Load + Run): 3.426356 s
+
+===== Greedy Algorithm Summary =====N=10
+Number of Selected Stations: 10
+Total Coverage: 372846 pixels
+Overlap Rate: 0.1985
+Selected IDs: [1525, 656, 2063, 618, 875, 2154, 2592, 2959, 1452, 3033]
+Algorithm Run Time: 5.275056 s
+Total Time (Load + Run): 6.015983 s
+
+===== Greedy Algorithm Summary =====N=20
+Number of Selected Stations: 20
+Total Coverage: 560516 pixels
+Overlap Rate: 0.3697
+Selected IDs: [1525, 656, 2063, 618, 875, 2154, 2592, 2959, 1452, 3033, 344, 1776, 422, 1131, 2730, 3112, 2838, 1238, 2092, 2009]
+Algorithm Run Time: 10.462142 s
+Total Time (Load + Run): 11.207983 s
+
+===== Greedy Algorithm Summary =====N=30
+Number of Selected Stations: 30
+Total Coverage: 697263 pixels
+Overlap Rate: 0.4573
+Selected IDs: [1525, 656, 2063, 618, 875, 2154, 2592, 2959, 1452, 3033, 344, 1776, 422, 1131, 2730, 3112, 2838, 1238, 2092, 2009, 3288, 950, 2530, 3229, 1393, 215, 2989, 123, 905, 2610]
+Algorithm Run Time: 15.960510 s
+Total Time (Load + Run): 16.677309 s
+
+===== Greedy Algorithm Summary =====N=40
+Number of Selected Stations: 40
+Total Coverage: 802784 pixels
+Overlap Rate: 0.6019
+Selected IDs: [1525, 656, 2063, 618, 875, 2154, 2592, 2959, 1452, 3033, 344, 1776, 422, 1131, 2730, 3112, 2838, 1238, 2092, 2009, 3288, 950, 2530, 3229, 1393, 215, 2989, 123, 905, 2610, 2492, 163, 245, 2368, 3175, 1651, 1792, 94, 2919, 852]
+Algorithm Run Time: 21.087528 s
+Total Time (Load + Run): 21.838444 s
+
+===== Greedy Algorithm Summary =====N=50
+Number of Selected Stations: 50
+Total Coverage: 872576 pixels
+Overlap Rate: 0.7678
+Selected IDs: [1525, 656, 2063, 618, 875, 2154, 2592, 2959, 1452, 3033, 344, 1776, 422, 1131, 2730, 3112, 2838, 1238, 2092, 2009, 3288, 950, 2530, 3229, 1393, 215, 2989, 123, 905, 2610, 2492, 163, 245, 2368, 3175, 1651, 1792, 94, 2919, 852, 2130, 3215, 1255, 583, 2232, 311, 2169, 769, 3311, 1118]
+Algorithm Run Time: 26.100552 s
+Total Time (Load + Run): 26.835053 s
+
+===== Greedy Algorithm Summary =====N=60
+Number of Selected Stations: 60
+Total Coverage: 919825 pixels
+Overlap Rate: 1.0031
+Selected IDs: [1525, 656, 2063, 618, 875, 2154, 2592, 2959, 1452, 3033, 344, 1776, 422, 1131, 2730, 3112, 2838, 1238, 2092, 2009, 3288, 950, 2530, 3229, 1393, 215, 2989, 123, 905, 2610, 2492, 163, 245, 2368, 3175, 1651, 1792, 94, 2919, 852, 2130, 3215, 1255, 583, 2232, 311, 2169, 769, 3311, 1118, 2392, 1587, 1375, 62, 1066, 1739, 3250, 194, 2811, 1001]
+Algorithm Run Time: 31.734725 s
+Total Time (Load + Run): 32.467168 s
+-----------------------------------------------------------------------------------------------
+===== PPO Algorithm Summary =====
+Number of Selected Stations: 3
+Total Coverage: 120743 pixels
+Overlap Rate: 0.3618
+Selected IDs: [1172, 1304, 1309]
+Algorithm Run Time: 12.589167 s
+
+===== PPO Algorithm Summary =====
+Number of Selected Stations: 5
+Total Coverage: 204089 pixels
+Overlap Rate: 0.3411
+Selected IDs: [1181, 1161, 428, 2101, 1653]
+Algorithm Run Time: 11.397132 s
+
+===== PPO Algorithm Summary =====
+Number of Selected Stations: 10
+Total Coverage: 274540 pixels
+Overlap Rate: 0.1833
+Selected IDs: [1293, 1514, 1477, 1244, 1840, 958, 607, 2938, 2336, 2741]
+Algorithm Run Time: 11.003799 s
+
+===== PPO Algorithm Summary =====
+Number of Selected Stations: 20
+Total Coverage: 427093 pixels
+Overlap Rate: 0.3128
+Selected IDs: [1132, 3102, 291, 2540, 2991, 2722, 3192, 496, 28, 234, 2616, 1955, 457, 2317, 3150, 771, 2309, 932, 1103, 192]
+Algorithm Run Time: 11.259347 s
+
+===== PPO Algorithm Summary =====
+Number of Selected Stations: 30
+Total Coverage: 507418 pixels
+Overlap Rate: 0.4439
+Selected IDs: [2016, 1588, 85, 1573, 1810, 1253, 2212, 1230, 1344, 2668, 3018, 3071, 2996, 2187, 2359, 2830, 1105, 528, 2025, 3082, 977, 3331, 744, 3434, 2733, 2358, 516, 3214, 1631, 193]
+Algorithm Run Time: 11.592908 s
+
+===== PPO Algorithm Summary =====
+Number of Selected Stations: 40
+Total Coverage: 606739 pixels
+Overlap Rate: 0.6995
+Selected IDs: [612, 2850, 2222, 2228, 143, 1689, 622, 1643, 2399, 2180, 2053, 2, 400, 2450, 91, 1863, 2289, 181, 452, 1442, 3033, 1974, 1809, 1736, 419, 1571, 1469, 2848, 305, 217, 3204, 2710, 2131, 3300, 2319, 1642, 623, 3177, 3458, 2337]
+Algorithm Run Time: 11.487008 s
+
+===== PPO Algorithm Summary =====
+Number of Selected Stations: 50
+Total Coverage: 705279 pixels
+Overlap Rate: 0.9638
+Selected IDs: [2790, 1589, 493, 599, 1932, 2418, 3005, 3279, 678, 940, 2392, 151, 316, 2363, 1778, 1742, 48, 1026, 3280, 386, 1598, 3047, 68, 88, 3410, 82, 2916, 1611, 3067, 3202, 2918, 425, 3456, 1825, 829, 1279, 2253, 2222, 2243, 2781, 1882, 3472, 1242, 1940, 1020, 1820, 273, 2225, 1406, 2393]
+Algorithm Run Time: 11.108206 s
+
+===== PPO Algorithm Summary =====
+Number of Selected Stations: 60
+Total Coverage: 745429 pixels
+Overlap Rate: 1.0626
+Selected IDs: [789, 3381, 3305, 1077, 148, 2352, 235, 1412, 488, 2408, 201, 584, 3161, 2512, 258, 1382, 1506, 3149, 3001, 3173, 2470, 3246, 3096, 3483, 2333, 2926, 757, 2908, 2300, 2078, 169, 2231, 823, 1439, 2288, 2608, 103, 519, 2314, 1043, 2611, 3250, 2606, 2850, 805, 2513, 661, 2841, 3225, 592, 3192, 1104, 1500, 14, 2134, 739, 2543, 2679, 2372, 3342]
+Algorithm Run Time: 11.140880 s
